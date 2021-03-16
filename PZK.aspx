@@ -40,8 +40,7 @@
     <title>[PZK]</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <link rel="stylesheet" href="//bootswatch.com/flatly/bootstrap.min.css" media="screen">
-    <link rel="stylesheet" href="//bootswatch.com/assets/css/custom.min.css">
+    <link rel="stylesheet" href="https://bootswatch.com/4/flatly/bootstrap.min.css" media="screen">
 </head>
 <body>
     <div class="container-fluid">
@@ -81,7 +80,7 @@
                     <ul class="list-unstyled">
                         <li class="pull-right"><a href="#top">Back to top</a></li>
                         <li>
-                            <p>Copyright © 2017 PZK</p>
+                            <p>Copyright © 2021 PZK</p>
                         </li>
                     </ul>
                 </div>
